@@ -4,7 +4,7 @@ and other assembly commands. The interpreter reads input from a file and outputs
 
 Key Features:
 
--Supports 16-bit, 32-bit, and 64-bit registers (ax, bx, cx, dx, eax, ebx, ecx, edx, rax, rbx, rcx, rdx).
+-Supports 16-bit, 32-bit, and 64-bit registers (ax, bx, cx, dx, eax, ebx, ecx, edx, rax, rbx, rcx, rdx).  
 -Handles integer and .asciz (string) data types.
 -Parses and executes assembly commands, including basic arithmetic operations (mov, add, sub, mul, div).
 -Supports conditional jumps based on comparison results (je, jg, jge, jl, jle, jne). -- NOT DONE
