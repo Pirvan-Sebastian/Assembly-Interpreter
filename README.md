@@ -1,5 +1,6 @@
 # Assembly-Interpreter
-This C++ assembly interpreter processes Assembly-like instructions and executes them. It supports basic arithmetic operations, conditional jumps, and other assembly commands. The interpreter reads input from a file and outputs either to the console or another file based on the specified command line arguments.
+This C++ assembly interpreter processes Assembly-like instructions and executes them. It supports basic arithmetic operations, conditional jumps, 
+and other assembly commands. The interpreter reads input from a file and outputs either to the console or another file based on the specified command line arguments.
 
 Key Features:
 
