@@ -1,0 +1,3 @@
+mov eax , ebx
+add 1 , eax
+mov  edx , aebx
